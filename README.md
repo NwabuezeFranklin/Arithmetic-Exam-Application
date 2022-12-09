@@ -1,1 +1,1 @@
-# Arithemetic-EXam-Application
+# Arithemetic-Exam-Application
