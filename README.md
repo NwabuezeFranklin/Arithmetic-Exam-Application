@@ -1,3 +1,3 @@
 # Arithemetic-Exam-Applications
-### Solving Arithemetic questions very much easily using python modules, Very interactive console-user sections :) Q&A section
+### Solving Arithemetic questions very much easily using python modules, Very interactive console-user sections :) Question &A section
 ### Free to Open Source.....
